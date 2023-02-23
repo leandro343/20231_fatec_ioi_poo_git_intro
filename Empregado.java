@@ -14,8 +14,6 @@ public class Empregado(
         return idade;
     } 
 
-    public void setIdade(String nome){
+    public void setIdade(String idade){
         this.idade = idade;
     }
-
-)
